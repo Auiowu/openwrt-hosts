@@ -3,7 +3,7 @@
 46.101.214.210 git.openwrt.org
 2a03:b0c0:3:d0::160e:e001 git.openwrt.org
 185.163.119.85 sources.openwrt.org
-2a03：4000：3b：221：：1 sources.openwrt.org
+2a03:4000:3b:221::1 sources.openwrt.org
 151.101.66.132 sources.cdn.openwrt.org
 2a04:4e42:400::644 sources.cdn.openwrt.org
 46.4.11.11 mirror2.openwrt.org
